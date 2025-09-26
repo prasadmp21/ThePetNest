@@ -1,5 +1,3 @@
-# PETHTML Project
-
 This is a simple HTML & CSS project showcasing different pets such as cats, dogs, birds, and fishes.  
 
 ## Project Structure
